@@ -7,20 +7,21 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "startbootstrap-clean-blog-j
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_8224"
-		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\Work\MyGithub\startbootstrap-clean-blog-jekyll\"
+		Debug.AspNetCompiler.PhysicalPath = "..\startbootstrap-clean-blog-jekyll\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_8224\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/localhost_8224"
-		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\Work\MyGithub\startbootstrap-clean-blog-jekyll\"
+		Release.AspNetCompiler.PhysicalPath = "..\startbootstrap-clean-blog-jekyll\"
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_8224\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "8224"
+		SlnRelativePath = "..\startbootstrap-clean-blog-jekyll\"
 	EndProjectSection
 EndProject
 Global
